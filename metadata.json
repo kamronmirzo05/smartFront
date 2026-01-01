@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of SmartCityFer_1",
+  "description": "Smart City Monitoring Dashboard including Soil Moisture, Indoor Climate, and AI-powered Waste Management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
